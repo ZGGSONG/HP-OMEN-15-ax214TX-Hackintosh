@@ -24,7 +24,7 @@
 
  - 在使用10.14.4的时候，温度挺高的，在10.13.6也没那么高，不知道是不是错觉(CPU睿频了，独显屏蔽了)，如果你们没有的话，就应该是我电脑该换硅脂了。。。
 
- ## <i class="fa fa-apple"></i> 还有其他问题，请移步
+ ## <i class="fa fa-pencil"></i> 其他问题，请移步
 
 <div>
  <b><a href="https://blog.daliansky.net/" target="_blank">黑锅小兵</a>
