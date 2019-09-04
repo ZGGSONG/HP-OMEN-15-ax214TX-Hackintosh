@@ -1,6 +1,6 @@
 # HP-OMEN-15-ax214TX-Hackintosh
 
-> HP OMEN 15-ax214TX 暗影精灵 II 代Pro-黑苹果EFI文件
+> HP暗影精灵 II 代Pro-i5 7300HQ-GTX1050-黑苹果EFI文件
 
 > __此EFI个人在10.13.6和10.14.4系统均可完美使用，如果出现问题，使用clover更新驱动至最新版本即可解决__
 
