@@ -1,6 +1,6 @@
 # HP-OMEN-15-ax214TX-Hackintosh
 
-[![Download](https://api.bintray.com/packages/xialonghua/kotmvp/kotmvp/images/download.svg)](https://bintray.com/xialonghua/kotmvp/kotmvp/_latestVersion)
+[![img](https://img.shields.io/github/last-commit/ZGGsong/HP-OMEN-15-ax214TX-Hackintosh.svg?color=orange&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/ZGGsong/HP-OMEN-15-ax214TX-Hackintosh) [![img](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/)
 
 > HP暗影精灵 II 代Pro-i5 7300HQ-GTX1050-黑苹果EFI文件
 
