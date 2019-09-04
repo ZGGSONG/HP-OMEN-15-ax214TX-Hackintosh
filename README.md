@@ -9,7 +9,7 @@
 
 ## 下载
 
-__<a href="https://github.com/ZGGSONG/HP-OMEN-15-ax214TX-Hackintosh/releases/tag/1.0.0">点击下载</a>__
+![GitHub Releases](https://img.shields.io/github/downloads/zggsong/HP-OMEN-15-ax214TX-Hackintosh/1.0.0/total)
 
 ## ☛ 倒腾黑苹果
 
