@@ -1,7 +1,7 @@
 # HP-OMEN-15-ax214TX-Hackintosh
 
 [![img](https://img.shields.io/github/last-commit/ZGGsong/HP-OMEN-15-ax214TX-Hackintosh.svg?color=orange&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/ZGGsong/HP-OMEN-15-ax214TX-Hackintosh) [![img](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/) 
-[![Download](https://api.bintray.com/packages/xialonghua/kotmvp/kotmvp/images/download.svg)](https://bintray.com/github/ZGGSONG/HP-OMEN-15-ax214TX-Hackintosh/releases/tag/1.0.0)
+
 > HP暗影精灵 II 代Pro-i5 7300HQ-GTX1050-黑苹果EFI文件
 
 > __此EFI个人在10.13.6和10.14.4系统均可完美使用，如果出现问题，使用clover更新驱动至最新版本即可解决__
