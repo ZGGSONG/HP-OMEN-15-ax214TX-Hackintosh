@@ -96,7 +96,7 @@ mac OS 10.13.6升级到mac OS 10.15.3
 
 ![截屏2020-02-14上午3.37.28.png](https://img.zggsong.cn/2020/02/14/8d11300b96ff7.png)
 
-![截屏2020-02-14上午3.38.00.png](https://img.zggsong.cn/2020/02/14/b757b7bc682ef.png)
+![截屏2020-02-14上午3.37.55.png](https://img.zggsong.cn/2020/02/14/1162286d40224.png)
 
 ![截屏2020-02-14上午3.38.00.png](https://img.zggsong.cn/2020/02/14/b757b7bc682ef.png)
 
