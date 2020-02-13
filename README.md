@@ -24,7 +24,7 @@
  - 声音完美解决(别作死热启动，别问为什么，都是泪)
 
 ## 存在问题
- - HDMI接口无法使用
+ - HDMI接口无法使用（独显驱动）
 
  - 你知道的——WIFI，无解，某宝了解一下([黑苹果usb网卡CF-811AC驱动美化and汉化](https://zhebk.cn/Z-Turn/CF-811AC.html))
 
@@ -41,3 +41,27 @@
  </b>
  <b><a href="http://bbs.pcbeta.com/index.php?gid=86" target="_blank">远景论坛</a></b>
 </div>
+
+## 升级
+
+mac OS 10.13.6升级到mac OS 10.15.3
+
+> 个人感受比较明显的就是速度的提升，从开机到整体的运行都更加的流畅了（咳咳，忘了身份【黑苹果玩家偷笑ing】）
+
+## 分享
+
+本人电脑中的软件基本都有：
+
+> [https://pan.baidu.com/s/1C-Bs61SLPksHbqAgHUUS1w](https://pan.baidu.com/s/1C-Bs61SLPksHbqAgHUUS1w) 
+
+> 提取码: j1s7
+
+> > 其中尤其推荐**Smooze**这个软件（鼠标手势app）
+
+## 注意
+
+- 电脑开启HiDPI [**https://www.sqlsec.com/2018/09/hidpi.html**](https://www.sqlsec.com/2018/09/hidpi.html)
+
+- HP暗影精灵2pro经实测无法开启独立显卡，由于HDMI口是独显输出，所以HDMI没办法用（并且要做好独显屏蔽工作，否则发热量巨大）
+
+- WIFI需要另外购置，几款特殊型号可支持AirDrop，随航等功能
