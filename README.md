@@ -78,6 +78,7 @@ mac OS 10.13.6升级到mac OS 10.15.3
 
 ## 截图
 
+> 图国内途径 [**https://blog.zggsong.cn/archives/1065.html**](https://blog.zggsong.cn/archives/1065.html)
 ![截屏2020-02-14上午3.34.53.png](https://img.zggsong.cn/2020/02/14/f2bade2641d5d.png)
 
 ![截屏2020-02-14上午3.35.30.png](https://img.zggsong.cn/2020/02/14/2507dee93dcd4.png)
