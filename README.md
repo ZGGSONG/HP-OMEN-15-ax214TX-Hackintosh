@@ -3,7 +3,17 @@
 [![img](https://img.shields.io/github/last-commit/ZGGsong/HP-OMEN-15-ax214TX-Hackintosh.svg?color=orange&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/ZGGsong/HP-OMEN-15-ax214TX-Hackintosh) [![img](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/) 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/zggsong/HP-OMEN-15-ax214TX-Hackintosh)](https://github.com/ZGGSONG/HP-OMEN-15-ax214TX-Hackintosh/releases/tag/1.0.0)
 
-> HP暗影精灵 II 代Pro-i5 7300HQ-GTX1050-HD630-黑苹果EFI文件
+
+## 配置
+| 分类 | 说明 |
+|:----:|:----:|
+| 型号 | HP暗影精灵 II 代Pro |
+| CPU | i5 7300HQ |
+| 内置显卡 | HD630 |
+| 外置显卡 | GTX1050 |
+| 声卡 | ALC295 |
+
+
 
 > **此处EFI分为两个版本：（10.13.6 && 10.14.4）和 10.15.3 两个版本**
 > > 此处我指明具体系统版本是我本人体验过的版本，目前10.15.3运行十分良好
