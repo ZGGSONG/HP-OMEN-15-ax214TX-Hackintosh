@@ -72,11 +72,9 @@ mac OS 10.13.6升级到mac OS 10.15.3
 
 本人电脑中的软件基本都有：
 
-> [https://pan.baidu.com/s/1C-Bs61SLPksHbqAgHUUS1w](https://pan.baidu.com/s/1C-Bs61SLPksHbqAgHUUS1w) 
+[**百度网盘地址**](https://pan.baidu.com/s/13P5zi9H-TsChVRmpyudAgQ) **trv8**
 
-> 提取码: j1s7
-
-> > 其中尤其推荐**Smooze**这个软件（鼠标手势app）
+> 其中尤其推荐**Smooze**这个软件（鼠标手势app）
 
 ## 注意
 
