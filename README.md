@@ -30,6 +30,8 @@
 
 无解：**wifi（需购置）、独显无解（HDMI借口独显输出，如果连接显示器也可以USB转HDMI）**
 
+注意：触控板手势仅有单指和双指，更多手势可下载此处的`ApplePS2SmartTouchPad.kext`，替换`/EFI/Clover/kexts/other/VoodooPS2Controller_v1.9.2.kext`驱动即可获得三指等手势，但亮度快捷键会无效且`option`和`command`位置会互换，当然，可以通过修改`info.plist`来修改（究其原因，懒得改了/😂）
+
 **⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️（*可忽略*）**
 
 
