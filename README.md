@@ -75,6 +75,7 @@ mac OS 10.13.6升级到mac OS 10.15.3
 本人电脑中的软件基本都有：
 
 [**百度网盘地址**](https://pan.baidu.com/s/13P5zi9H-TsChVRmpyudAgQ) **trv8**
+<b style="color:red">百度封了，自用软件可以邮件我私发</b>
 
 > 其中尤其推荐**Smooze**这个软件（鼠标手势app）
 
