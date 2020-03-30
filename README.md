@@ -33,7 +33,7 @@
 <details>
   <summary>如果很迷恋多指手势，请看这里（触控板使用效果并不好，常常识别错误，就没加在里面）</summary>
 
-> 触控板手势仅有单指和双指，更多手势可下载此处根目录的[ApplePS2SmartTouchPad.kext.zip](https://github.com/ZGGSONG/HP-OMEN-15-ax214TX-Hackintosh/blob/master/ApplePS2SmartTouchPad.kext.zip)，解压后替换`/EFI/Clover/kexts/other/VoodooPS2Controller_v1.9.2.kext`驱动即可获得三指等手势，但亮度快捷键会无效且`option`和`command`位置会互换，当然，可以通过修改`info.plist`来修改（之前改了一个比较完美的，忘记留了，不过各位意义真不大，你可以换这个试试😂）
+> 触控板手势仅有单指和双指，更多手势可下载此处根目录的[ApplePS2SmartTouchPad.kext.zip](https://github.com/ZGGSONG/HP-OMEN-15-ax214TX-Hackintosh/raw/master/ApplePS2SmartTouchPad.kext.zip)，解压后替换`/EFI/Clover/kexts/other/VoodooPS2Controller_v1.9.2.kext`驱动即可获得三指等手势，但亮度快捷键会无效且`option`和`command`位置会互换，当然，可以通过修改`info.plist`来修改（之前改了一个比较完美的，忘记留了，不过各位意义真不大，你可以换这个试试😂）
 </details>
 
 **⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️（*可忽略*）**
