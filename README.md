@@ -97,27 +97,23 @@ mac OS 10.13.6升级到mac OS 10.15.3
 ## 截图
 
 > 图国内途径 [**https://blog.zggsong.cn/archives/1065.html**](https://blog.zggsong.cn/archives/1065.html)
-![截屏2020-02-14上午3.34.53.png](https://img.zggsong.cn/2020/02/14/f2bade2641d5d.png)
+![](https://cdn.zggsong.cn/2020/03/21/142060289abd1.png)
 
-![截屏2020-02-14上午3.35.30.png](https://img.zggsong.cn/2020/02/14/2507dee93dcd4.png)
+![](https://cdn.zggsong.cn/2020/03/21/0249761a4bfa9.png)
 
-![截屏2020-02-14上午3.35.35.png](https://img.zggsong.cn/2020/02/14/988f5df40db20.png)
+![](https://cdn.zggsong.cn/2020/03/21/b26e0df46f6ee.png)
 
-![截屏2020-02-14上午3.35.42.png](https://img.zggsong.cn/2020/02/14/a16feeb828bbf.png)
+![](https://cdn.zggsong.cn/2020/03/21/a7cfea9c177a8.png)
 
-![截屏2020-02-14上午3.35.46.png](https://img.zggsong.cn/2020/02/14/4db57b67cbeee.png)
+![](https://cdn.zggsong.cn/2020/03/21/949814e3c55e8.png)
 
-![截屏2020-02-14上午3.36.22.png](https://img.zggsong.cn/2020/02/14/cfc2460b2b1be.png)
+![](https://cdn.zggsong.cn/2020/03/21/b3c327f858af2.png)
 
-![截屏2020-02-14上午3.37.11.png](https://img.zggsong.cn/2020/02/14/a5ccddf8eae5c.png)
+![](https://cdn.zggsong.cn/2020/03/21/f393788e1fcf1.png)
 
-![截屏2020-02-14上午3.37.19.png](https://img.zggsong.cn/2020/02/14/269576c68a1ae.png)
+![](https://cdn.zggsong.cn/2020/03/21/43d85ea996bbd.png)
 
-![截屏2020-02-14上午3.37.28.png](https://img.zggsong.cn/2020/02/14/8d11300b96ff7.png)
-
-![截屏2020-02-14上午3.37.55.png](https://img.zggsong.cn/2020/02/14/1162286d40224.png)
-
-![截屏2020-02-14上午3.38.00.png](https://img.zggsong.cn/2020/02/14/b757b7bc682ef.png)
+![](https://cdn.zggsong.cn/2020/03/21/99273658b4f01.png)
 
  ## 其他问题，请移步
 
