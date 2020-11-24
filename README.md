@@ -45,7 +45,7 @@ OpenCore引导
 
 ## 下载
 
-[**点击下载**](https://github.com/ZGGSONG/HP-OMEN-15-ax214TX-Hackintosh/releases/tag/2.0)
+[**点击下载**](https://github.com/ZGGSONG/HP-OMEN-15-ax214TX-Hackintosh/archive/2.1.zip)
 
 > 版本自行选择
 
