@@ -19,9 +19,11 @@
 
 
 
-## 2.1更新
+## 2.1.1更新
 
-添加`DW1560`网卡驱动
+- 添加`DW1560`网卡驱动
+
+- 修改序列号(每个人自己用记得修改)
 
 如有需要[点击下载](https://zggsong.lanzous.com/imxmtipssqf)
 
@@ -48,7 +50,7 @@ OpenCore引导
 
 ## 下载
 
-[**点击下载**](https://github.com/ZGGSONG/HP-OMEN-15-ax214TX-Hackintosh/archive/2.1.zip)
+[**点击下载**](https://github.com/ZGGSONG/HP-OMEN-15-ax214TX-Hackintosh/archive/2.1.1.zip)
 
 > 版本自行选择
 
