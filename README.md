@@ -9,11 +9,36 @@
 |:----:|:----:|
 | 型号 | HP暗影精灵 II 代Pro |
 | CPU | i5 7300HQ |
+| 网卡 | DW1560/BCM94352Z |
 | 集显 | HD630 |
 | 独显 | GTX1050 |
 | 声卡 | ALC295 |
 
 
+
+## 2.1更新
+
+添加`DW1560`网卡驱动
+
+如有需要[点击下载](https://zggsong.lanzous.com/imxmtipssqf)
+
+```
+DW1560黑苹果驱动，适用于macOS Catalina 10.15.1、macOS Catalina 10.15.2、macOS Catalina 10.15.3系统。
+
+如果你的机型需要屏蔽针脚，请先屏蔽好针脚才能驱动Wi-Fi。
+
+安装方法：
+
+CLOVER引导
+
+安装到CLOVER\Kexts\Other 目录下，重启即可。如果没有效果重启进mac之后重建缓存之后再重启即可。
+
+OpenCore引导
+
+安装到OC\Kexts 目录下，Config.plist添加好驱动然后重启即可。如果没有效果重启进mac之后重建缓存之后再重启即可。
+```
+
+- 转自[http://www.macoshome.com/hackintosh/hdrivers/2486.html](http://www.macoshome.com/hackintosh/hdrivers/2486.html)
 
 > **此处EFI分为两个版本：（10.13.6 && 10.14.4）和 10.15.3 两个版本**
 > > 此处我指明具体系统版本是我本人体验过的版本，目前10.15.3运行十分良好
