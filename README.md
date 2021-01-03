@@ -1,7 +1,7 @@
 # HP-OMEN-15-ax214TX-Hackintosh
 
 [![img](https://img.shields.io/github/last-commit/ZGGsong/HP-OMEN-15-ax214TX-Hackintosh.svg?color=orange&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/ZGGsong/HP-OMEN-15-ax214TX-Hackintosh) [![img](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/) 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/zggsong/HP-OMEN-15-ax214TX-Hackintosh)](https://github.com/ZGGSONG/HP-OMEN-15-ax214TX-Hackintosh/releases/tag/1.0.0)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/zggsong/HP-OMEN-15-ax214TX-Hackintosh)](https://github.com/ZGGSONG/HP-OMEN-15-ax214TX-Hackintosh/releases/)
 
 ## 注意
 
