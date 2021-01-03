@@ -18,7 +18,8 @@
 | 声卡 | ALC295 |
 
 
-
+<details>
+  <summary>___</summary>
 ## 2.1.1更新
 
 - 添加`DW1560`网卡驱动
@@ -157,3 +158,4 @@ mac OS 10.13.6升级到mac OS 10.15.3
  </b>
  <b><a href="http://bbs.pcbeta.com/index.php?gid=86" target="_blank">远景论坛</a></b>
 </div>
+</details>
