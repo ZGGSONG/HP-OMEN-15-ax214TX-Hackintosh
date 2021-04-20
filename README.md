@@ -19,7 +19,12 @@
 
 <details>
   <summary>   </summary>
-  
+
+## 2.2 更新
+
+- 支持macos11.2.3
+- 请于[release](https://github.com/ZGGSONG/HP-OMEN-15-ax214TX-Hackintosh/releases)页面下载最新版本
+
 ## 2.1.1更新
 
 - 添加`DW1560`网卡驱动
