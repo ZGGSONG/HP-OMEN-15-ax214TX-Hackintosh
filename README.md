@@ -17,6 +17,12 @@
 | 独显 | GTX1050 |
 | 声卡 | ALC295 |
 
+```
+#  双系统时间不一致
+
+Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
+```
+
 <details>
   <summary>   </summary>
 
