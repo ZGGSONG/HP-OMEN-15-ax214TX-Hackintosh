@@ -17,11 +17,6 @@
 | 独显 | GTX1050 |
 | 声卡 | ALC295 |
 
-```
-#  win+mac 双系统时间不一致时，win下cmd输入如下代码:
-
-Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
-```
 
 <details>
   <summary>   </summary>
@@ -31,6 +26,11 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 - 支持macos11.2.3
 - 请于[release](https://github.com/ZGGSONG/HP-OMEN-15-ax214TX-Hackintosh/releases)页面下载最新版本
 
+```
+#  win+mac 双系统时间不一致时，win下cmd输入如下代码:
+
+Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
+```
 ## 2.1.1更新
 
 - 添加`DW1560`网卡驱动
